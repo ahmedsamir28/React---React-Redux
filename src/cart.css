@@ -1,0 +1,9 @@
+.cartBox{
+    border-radius: 5px;
+    padding: 0 20px;
+    margin:50px 0;
+    background-color: #f7941d;
+}
+.cartBox h1{
+        color: #f7941d;
+    }
